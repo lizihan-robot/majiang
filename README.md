@@ -1,0 +1,2 @@
+# majiang
+qt_majiang
